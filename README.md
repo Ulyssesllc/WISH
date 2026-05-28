@@ -4,8 +4,12 @@ WISH is a framework for instance segmentation using mixed weak supervision (imag
 
 **Paper**: *"WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels"* (CVPR 2025)
 
-![output 1](assets/000000000108.png)
-![output 2](assets/000000107028.png)
+<table>
+  <tr>
+    <td><img src="assets/000000000108.png" alt="output 1" width="400"/></td>
+    <td><img src="assets/000000107028.png" alt="output 2" width="400"/></td>
+  </tr>
+</table>
 
 ---
 
